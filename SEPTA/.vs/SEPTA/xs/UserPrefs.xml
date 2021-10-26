@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{610CCCC0-F4A3-6D63-EBC7-0EBFD9EF88E4}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameEvent.cs">
     <Files>
-      <File FileName="Assets/Script/GameEvent.cs" Line="30" Column="22" />
+      <File FileName="Assets/Script/GameEvent.cs" Line="16" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
