@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.1, y: 7.8}
+  m_AnchoredPosition: {x: -5.1, y: -9}
   m_SizeDelta: {x: 782.6, y: 155.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8784835050049080517
@@ -66,7 +66,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 1829811292298441f98eae7087e62285, type: 3}
+    m_Font: {fileID: 12800000, guid: e9cbea688169d9347b5e4a292f8e1d4c, type: 3}
     m_FontSize: 80
     m_FontStyle: 0
     m_BestFit: 0

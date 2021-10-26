@@ -17,6 +17,8 @@ TextureImporter:
     21300024: SeptaAlert_UI_SPRITES_12
     21300026: SeptaAlert_UI_SPRITES_13
     21300028: SeptaAlert_UI_SPRITES_14
+    21300030: SeptaAlert_UI_SPRITES_15
+    21300032: SeptaAlert_UI_SPRITES_16
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -387,13 +389,53 @@ TextureImporter:
         width: 152
         height: 162
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 3a5cb3981f6114bc49bf2dbb60dd8df1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeptaAlert_UI_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1935
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f552998ae8d460fa1e22ba65d2764f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeptaAlert_UI_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1931
+        width: 89
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e89cefe02e4b6eab4230bc5699f3f
       vertices: []
       indices: 
       edges: []

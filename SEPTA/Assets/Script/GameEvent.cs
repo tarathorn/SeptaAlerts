@@ -13,6 +13,8 @@ public class GameEvent : MonoBehaviour
     public GameObject help;
     public GameObject setting;
     public GameObject settingButton;
+    public GameObject destination;
+
 
 
     // Start is called before the first frame update
@@ -27,6 +29,8 @@ public class GameEvent : MonoBehaviour
         help.SetActive(false);
         setting.SetActive(false);
         settingButton.SetActive(false);
+        destination.SetActive(false);
+
 
     }
 
