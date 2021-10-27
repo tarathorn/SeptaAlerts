@@ -19,6 +19,7 @@ TextureImporter:
     21300028: SeptaAlert_UI_SPRITES_14
     21300030: SeptaAlert_UI_SPRITES_15
     21300032: SeptaAlert_UI_SPRITES_16
+    21300034: SeptaAlert_UI_SPRITES_17
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -429,13 +430,33 @@ TextureImporter:
         width: 89
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 679e89cefe02e4b6eab4230bc5699f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeptaAlert_UI_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1926
+        width: 115
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe26dab9b0094bfdb2d7b401505e780
       vertices: []
       indices: 
       edges: []
