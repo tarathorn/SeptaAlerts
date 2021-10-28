@@ -8,12 +8,14 @@ public class GameEvent : MonoBehaviour
     public GameObject loadscreen;
     public GameObject menu;
     public GameObject scan;
-    public GameObject select;
     public GameObject update;
     public GameObject help;
     public GameObject setting;
     public GameObject settingButton;
     public GameObject destination;
+    public GameObject bottombar;
+    public GameObject bottombarline;
+
 
 
 
@@ -24,12 +26,14 @@ public class GameEvent : MonoBehaviour
         mainstructure.SetActive(false);
         menu.SetActive(false);
         scan.SetActive(false);
-        select.SetActive(false);
         update.SetActive(false);
         help.SetActive(false);
         setting.SetActive(false);
         settingButton.SetActive(false);
         destination.SetActive(false);
+        bottombarline.SetActive(false);
+        bottombar.SetActive(false);
+
 
 
     }
