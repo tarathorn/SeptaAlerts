@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: XR4U
   productName: SEPTA
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -90,7 +90,7 @@ PlayerSettings:
   xboxEnableKinectAutoTracking: 0
   xboxEnableFitness: 0
   visibleInBackground: 1
-  allowFullscreenSwitch: 1
+  allowFullscreenSwitch: 0
   graphicsJobMode: 0
   fullscreenMode: 3
   xboxSpeechDB: 0
@@ -117,7 +117,7 @@ PlayerSettings:
     5:4: 0
     16:10: 0
     16:9: 0
-    Others: 0
+    Others: 1
   bundleVersion: 0.1
   preloadedAssets: []
   metroInputSource: 0
@@ -257,7 +257,14 @@ PlayerSettings:
     banner: {fileID: 0}
   androidGamepadSupportLevel: 0
   resolutionDialogBanner: {fileID: 0}
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: e97b09103bd0b4c9bbcfdd9235506435, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone

@@ -34,6 +34,8 @@ public class GameEvent : MonoBehaviour
         bottombarline.SetActive(false);
         bottombar.SetActive(false);
 
+        Screen.SetResolution(1080, 1920, true);
+
 
 
     }
