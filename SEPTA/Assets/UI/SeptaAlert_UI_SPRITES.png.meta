@@ -286,10 +286,10 @@ TextureImporter:
       name: SeptaAlert_UI_SPRITES_9
       rect:
         serializedVersion: 2
-        x: 488
-        y: 2094
-        width: 69
-        height: 58
+        x: 496
+        y: 2088
+        width: 700
+        height: 114
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
