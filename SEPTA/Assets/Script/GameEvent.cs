@@ -12,7 +12,6 @@ public class GameEvent : MonoBehaviour
     public GameObject help;
     public GameObject setting;
     public GameObject settingButton;
-    public GameObject destination;
     public GameObject bottombar;
     public GameObject bottombarline;
 
@@ -30,7 +29,6 @@ public class GameEvent : MonoBehaviour
         help.SetActive(false);
         setting.SetActive(false);
         settingButton.SetActive(false);
-        destination.SetActive(false);
         bottombarline.SetActive(false);
         bottombar.SetActive(false);
 
