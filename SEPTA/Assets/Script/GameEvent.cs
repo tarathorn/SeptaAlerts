@@ -33,6 +33,7 @@ public class GameEvent : MonoBehaviour
         bottombar.SetActive(false);
 
         Screen.SetResolution(1080, 1920, true);
+        Screen.fullScreen = !Screen.fullScreen;
 
 
 

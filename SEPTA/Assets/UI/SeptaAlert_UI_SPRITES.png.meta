@@ -59,6 +59,12 @@ TextureImporter:
   - first:
       213: 21300036
     second: SeptaAlert_UI_SPRITES_18
+  - first:
+      213: 8779905704221581583
+    second: SeptaAlert_UI_SPRITES_19
+  - first:
+      213: 402854944549223225
+    second: SeptaAlert_UI_SPRITES_20
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -542,6 +548,48 @@ TextureImporter:
       bones: []
       spriteID: f5ca04d5231f04218b6247e1408fbb87
       internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeptaAlert_UI_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1887
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ad8558bd78d970800000000000000
+      internalID: 8779905704221581583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeptaAlert_UI_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1886
+        width: 121
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bbdd9007a379500800000000000000
+      internalID: 402854944549223225
       vertices: []
       indices: 
       edges: []
